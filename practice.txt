@@ -1,0 +1,13 @@
+initial commit from Dell Latitude Windows 10 computer 
+changed with even more changed stuff than before...
+changing stuff around again...
+
+<modify and save the file>
+git status -- file is red
+git add .
+git status -- file is green
+git commit -am "third commit"
+git push origin master
+<refresh github in browser>
+
+Added to VisualStudio Code
