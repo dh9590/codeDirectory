@@ -14,3 +14,12 @@ git push origin master
 Attempted to add to VisualStudio Code on Dell Latitude
 Attempt success.  Another modification of the file.
 attempt Success.  another modification of this file.
+
+FROM THE DELL LATITUDE (be in ...\Documents\codeDirectory\revitalize2019):
+- edit file using VS Code
+- save changes (CTRL-S)
+- click on source code (left side) -- should have number
+- enter Message in box, then click the checkMark above (does 'commit')
+- Open a terminal window, ls to the same directory (above).  
+- enter "git push" and press ENTER (updates will be pushed to GitHub)
+- Open the repository in a browser window, then open the updated file -- verify that the latest changes are present...
