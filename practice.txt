@@ -11,4 +11,4 @@ git commit -am "third commit"
 git push origin master
 <refresh github in browser>
 
-Added to VisualStudio Code
+Attempted to add to VisualStudio Code on Dell Latitude
