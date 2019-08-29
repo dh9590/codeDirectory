@@ -21,3 +21,5 @@ FROM THE DELL LATITUDE VS Code
 - Open a terminal window, ls to the same directory (above).  
 - enter "git push" and press ENTER (updates will be pushed to GitHub)
 - Open the repository in a browser window, then open the updated file -- verify that the latest changes are present...
+
+attempt to 1st revised push from macbook pro
