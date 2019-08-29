@@ -1,6 +1,7 @@
 initial commit from Dell Latitude Windows 10 computer 
 changed with even more changed stuff than before...
 changing stuff around again...
+readded to Dell Latitude Windows 10 computer (do NOT make the codeDirectory a repository)
 
 <modify and save the file>
 git status -- file is red
