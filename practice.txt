@@ -1,7 +1,4 @@
-initial commit from Dell Latitude Windows 10 computer 
-changed with even more changed stuff than before...
-changing stuff around again...
-readded to Dell Latitude Windows 10 computer (do NOT make the codeDirectory a repository)
+
 
 <modify and save the file>
 git status -- file is red
@@ -15,7 +12,8 @@ Attempted to add to VisualStudio Code on Dell Latitude
 Attempt success.  Another modification of the file.
 attempt Success.  another modification of this file.
 
-FROM THE DELL LATITUDE (be in ...\Documents\codeDirectory\revitalize2019):
+FROM THE DELL LATITUDE VS Code
+    *** (be in ...\Documents\codeDirectory\revitalize2019):
 - edit file using VS Code
 - save changes (CTRL-S)
 - click on source code (left side) -- should have number
